@@ -1,13 +1,13 @@
-#Overview
+**Overview
 -----
-The Smart HomeGuard Capstone Project aims to develop an innovative and comprehensive home security solution using advanced technologies. The project integrates an Android app, machine learning models, cloud-based APIs, and various libraries to create a cutting-edge security system for residential properties.
+The Smart HomeGuard Capstone Project aims to develop an innovative home security solution. The project integrates an Android app, machine learning models, cloud-based APIs, and various libraries to create a cutting-edge security system for residential properties.
 
 *Key Components*
-1. Android App: The Android app serves as the user interface, providing real-time property surveillance, alerts, and control.
+1. Android App: The Android app serves as the user interface, providing real-time property surveillance, notification alerts, and control.
 
-2. Machine Learning Models: Machine learning models are developed to classify individuals and objects, specifically focusing on intruder detection.
+2. Machine Learning Models: Machine learning models will help to classify individuals and objects, specifically focusing on intruder detection.
 
-3. Cloud-Based API: A cloud-based API is created to host the machine learning models and expose endpoints for real-time data communication.
+3. Cloud-Based API: A cloud-based APIs from Azure, AWS or GCP will be used to host the machine learning models and expose endpoints for real-time data communication.
 
 4. Integration of Technologies: The project leverages Jetpack Compose, Coroutines, Room, Retrofit, and Work Manager for UI design, asynchronous tasks, data storage, API communication, and background task scheduling, respectively.
 
