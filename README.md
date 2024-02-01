@@ -38,4 +38,3 @@ Ensure proper deployment and accessibility of the cloud-based API.
 **Goals and Impact**
 The Smart HomeGuard Capstone Project aims to revolutionize home security by leveraging advanced technologies to provide homeowners with an intelligent, proactive, and reliable security system. The project's success will be measured by achieving accurate detection, real-time monitoring, and seamless communication between the Android app, machine learning models, and cloud-based API.
  
- #Smart-HomeGuard
