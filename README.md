@@ -1,5 +1,7 @@
 Overview
 -----
+![image](https://github.com/hamzariffic/Smart-HomeGuard/assets/60144282/7a2bcaf0-3455-4cdc-8282-900bf77ea1f2)
+
 The Smart HomeGuard Capstone Project aims to develop an innovative home security solution. The project integrates an Android app, machine learning models, cloud-based APIs, and various libraries to create a cutting-edge security system for residential properties.
 
 *Key Components*
